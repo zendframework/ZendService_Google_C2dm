@@ -1,6 +1,10 @@
 ZendService\Google\C2dm component
 ================================
 
+> ## Repository abandoned 2019-12-05
+>
+> This repository is no longer maintained.
+
 Provides support for Google push notifications on deprecated C2dm.
 
 Install dependencies using:
